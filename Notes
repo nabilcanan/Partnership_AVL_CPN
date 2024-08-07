@@ -1,0 +1,23 @@
+Please write a program that will take a list of parts from a BOM and help identify where there are multiple Mfg’s
+approved for a customer PN (CPN).
+
+The program will need to:
+Concatenate the CPN and the Mfg PN
+Then remove duplicates from that column
+Then do a count of CPN’s
+In that column then, anything with a count of 1 s/be changed to N and anything greater than 1 s/be changed to a Y.
+
+See attached example.
+Files might look different each time but each will include a column called CPN and then
+variations of the Mfg PN column.
+If needed we can make it a rule for the people who will run this that the columns that are being concatenated
+are called something specific.
+If you don’t know how to concatenate, col Q has the formula.
+
+Please let me know how long this will take to complete.
+Going forward until your last day, any projects assigned should only be worked on between 8am and 5pm, Mon – Fri.
+
+Let me know if there are any questions.
+
+Thanks,
+Erin
